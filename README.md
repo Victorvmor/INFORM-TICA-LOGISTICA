@@ -1,3 +1,4 @@
+<img width="1625" height="522" alt="Captura de tela 2026-04-16 223317" src="https://github.com/user-attachments/assets/deaac461-853b-427b-8e4c-89a6ea2fe84f" />
 # INFORMÁTICA APLICADA À LOGISTICA
 ## Conteúdos desenvolvidos dentro da disciplina informática aplicada à logística.
 
@@ -16,3 +17,7 @@ https://www.canva.com/design/DAHBPnoKum4/7QdoF78-WPsnIqhQm9iO8Q/edit?utm_content
 
 ### ATIVIDADE DADOS ABERTO- DESPESAS:
 <img width="1873" height="688" alt="DESPESAS" src="https://github.com/user-attachments/assets/c61a338e-ed6b-4060-812c-4aba91586944" />
+
+### ATIVIDADE DADOS ABERTO- FORNECEDORES:
+<img width="1625" height="522" alt="Captura de tela 2026-04-16 223317" src="https://github.com/user-attachments/assets/6cd0eae3-719c-4c1b-a054-b5e445c3ebe1" />
+
