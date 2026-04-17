@@ -8,3 +8,4 @@
 
 ### Conteúdo completo:   
 https://www.canva.com/design/DAHBPnoKum4/7QdoF78-WPsnIqhQm9iO8Q/edit?utm_content=DAHBPnoKum4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+<img width="1606" height="753" alt="multas-pagas" src="https://github.com/user-attachments/assets/38559347-6a9a-43f2-a1f7-efd763ccd5e2" />
