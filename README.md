@@ -12,3 +12,7 @@ https://www.canva.com/design/DAHBPnoKum4/7QdoF78-WPsnIqhQm9iO8Q/edit?utm_content
 
 ### ATIVIDADE DADOS ABERTO- MULTAS:
 <img width="1606" height="753" alt="multas-pagas" src="https://github.com/user-attachments/assets/38559347-6a9a-43f2-a1f7-efd763ccd5e2" />
+
+
+### ATIVIDADE DADOS ABERTO- DESPESAS:
+<img width="1873" height="688" alt="DESPESAS" src="https://github.com/user-attachments/assets/c61a338e-ed6b-4060-812c-4aba91586944" />
