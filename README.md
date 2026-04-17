@@ -1,4 +1,4 @@
-<img width="1625" height="522" alt="Captura de tela 2026-04-16 223317" src="https://github.com/user-attachments/assets/deaac461-853b-427b-8e4c-89a6ea2fe84f" />
+
 # INFORMÁTICA APLICADA À LOGISTICA
 ## Conteúdos desenvolvidos dentro da disciplina informática aplicada à logística.
 
