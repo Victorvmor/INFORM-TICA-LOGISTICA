@@ -23,11 +23,15 @@ https://www.canva.com/design/DAHBPnoKum4/7QdoF78-WPsnIqhQm9iO8Q/edit?utm_content
 
 
 
-### ATIVIDADE SINISTROS-SP:
+### ATIVIDADE 06 SINISTROS-SP:
 <img width="1220" height="691" alt="Img_SINISTROS" src="https://github.com/user-attachments/assets/28321f76-e57f-481f-8f3d-2149f9f43cb8" />
 
 ## ATIVIDADE CONJUNTO DE DADOS
+## usando o powerbi com os dados abertos sp trabalho-emprego-formal-municípios do estado de são Paulo para responder 2 perguntas que a professora gerou
 <img width="1314" height="739" alt="IMG_Conjunto_Dados" src="https://github.com/user-attachments/assets/c5365ca5-2100-4e65-93e1-80323bb4e6ea" />
+
+## 1° PERGUNTA
+## qual ano e mês o saldo de transferência foi menor ?
 
 
 
