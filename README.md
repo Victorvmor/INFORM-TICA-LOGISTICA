@@ -21,3 +21,9 @@ https://www.canva.com/design/DAHBPnoKum4/7QdoF78-WPsnIqhQm9iO8Q/edit?utm_content
 ### ATIVIDADE DADOS ABERTO- FORNECEDORES:
 <img width="1625" height="522" alt="Captura de tela 2026-04-16 223317" src="https://github.com/user-attachments/assets/6cd0eae3-719c-4c1b-a054-b5e445c3ebe1" />
 
+
+
+###ATIVIDADE SINISTROS-SP###
+<img width="1220" height="691" alt="Img_SINISTROS" src="https://github.com/user-attachments/assets/28321f76-e57f-481f-8f3d-2149f9f43cb8" />
+
+
