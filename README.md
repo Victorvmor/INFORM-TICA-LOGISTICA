@@ -27,7 +27,8 @@ https://www.canva.com/design/DAHBPnoKum4/7QdoF78-WPsnIqhQm9iO8Q/edit?utm_content
 <img width="1220" height="691" alt="Img_SINISTROS" src="https://github.com/user-attachments/assets/28321f76-e57f-481f-8f3d-2149f9f43cb8" />
 
 ## ATIVIDADE CONJUNTO DE DADOS
-<img width="1220" height="691" alt="Img_SINISTROS" src="https://github.com/user-attachments/assets/8864899f-0683-4758-b501-0ca1dea242df" />
+<img width="1314" height="739" alt="IMG_Conjunto_Dados" src="https://github.com/user-attachments/assets/c5365ca5-2100-4e65-93e1-80323bb4e6ea" />
+
 
 
 
