@@ -23,7 +23,7 @@ https://www.canva.com/design/DAHBPnoKum4/7QdoF78-WPsnIqhQm9iO8Q/edit?utm_content
 
 
 
-###ATIVIDADE SINISTROS-SP###
+### ATIVIDADE SINISTROS-SP:
 <img width="1220" height="691" alt="Img_SINISTROS" src="https://github.com/user-attachments/assets/28321f76-e57f-481f-8f3d-2149f9f43cb8" />
 
 
