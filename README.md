@@ -28,7 +28,8 @@ https://www.canva.com/design/DAHBPnoKum4/7QdoF78-WPsnIqhQm9iO8Q/edit?utm_content
 
 ## ATIVIDADE- 07 CONJUNTO DE DADOS
 ## usando o powerbi com os dados abertos sp trabalho-emprego-formal-municípios do estado de são Paulo para responder 2 perguntas que a professora gerou
-<img width="1314" height="739" alt="IMG_Conjunto_Dados" src="https://github.com/user-attachments/assets/c5365ca5-2100-4e65-93e1-80323bb4e6ea" />
+<img width="1873" height="820" alt="EMPREGO" src="https://github.com/user-attachments/assets/47c25fe7-e980-4441-a94c-c78989a0c2a8" />
+
 
 ## 1° PERGUNTA
 ## qual ano e mês o saldo de transferência foi menor ?
