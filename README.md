@@ -45,3 +45,8 @@ https://www.canva.com/design/DAHBPnoKum4/7QdoF78-WPsnIqhQm9iO8Q/edit?utm_content
 <img width="1881" height="838" alt="EMPREGO_PART2" src="https://github.com/user-attachments/assets/2d2974a6-6bc5-4c3d-b87f-3843b496233b" />
 
 
+## ATIVIDADE- 8 CONJUNTO DE DADOS- Dax
+<img width="1507" height="766" alt="FORMULADAX" src="https://github.com/user-attachments/assets/c871b52d-cabc-489f-802d-10526f062ba8" />
+
+
+
