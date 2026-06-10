@@ -30,7 +30,7 @@ https://www.canva.com/design/DAHBPnoKum4/7QdoF78-WPsnIqhQm9iO8Q/edit?utm_content
 ## Usando o powerbi com os dados abertos sp trabalho-emprego-formal-municípios do estado de são Paulo para responder 2 perguntas que a professora gerou
 ## 1°- PERGUNTA:
 
-##Qual ano e mês teve o maior saldo de rejeição?
+## Qual ano e mês teve o maior saldo de rejeição?
 
 <img width="1873" height="820" alt="EMPREGO" src="https://github.com/user-attachments/assets/47c25fe7-e980-4441-a94c-c78989a0c2a8" />
 
