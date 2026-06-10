@@ -28,12 +28,20 @@ https://www.canva.com/design/DAHBPnoKum4/7QdoF78-WPsnIqhQm9iO8Q/edit?utm_content
 
 ## ATIVIDADE- 07 CONJUNTO DE DADOS
 ## usando o powerbi com os dados abertos sp trabalho-emprego-formal-municípios do estado de são Paulo para responder 2 perguntas que a professora gerou
+## 1°- PERGUNTA:
+## 1°- PERGUNTA:
+##qual ano e mês teve o maior saldo de rejeição?
+
 <img width="1873" height="820" alt="EMPREGO" src="https://github.com/user-attachments/assets/47c25fe7-e980-4441-a94c-c78989a0c2a8" />
 
 
-## 1° PERGUNTA
+## 2° PERGUNTA
 ## qual ano e mês o saldo de transferência foi menor ?
+<img width="1882" height="739" alt="EMPREGO-1" src="https://github.com/user-attachments/assets/d77466ed-7557-4f23-80c2-fafed2ecaa71" />
 
 
+## ATIVIDADE- 7.1 CONJUNTO DE DADOS
+##usar os dados abertos de SP, escolher um deles e criar três visualizaçõe:
+<img width="1881" height="838" alt="EMPREGO_PART2" src="https://github.com/user-attachments/assets/2d2974a6-6bc5-4c3d-b87f-3843b496233b" />
 
 
