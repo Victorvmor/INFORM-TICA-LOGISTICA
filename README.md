@@ -43,6 +43,7 @@ https://www.canva.com/design/DAHBPnoKum4/7QdoF78-WPsnIqhQm9iO8Q/edit?utm_content
 ## ATIVIDADE- 7.1 CONJUNTO DE DADOS
 ## usar os dados abertos de SP, escolher um deles e criar três visualizaçõe:
 <img width="1881" height="838" alt="EMPREGO_PART2" src="https://github.com/user-attachments/assets/2d2974a6-6bc5-4c3d-b87f-3843b496233b" />
+link: https://github.com/Victorvmor/INFORM-TICA-LOGISTICA/blob/main/Aulas/DadosEmprego_PART2.pbix
 
 
 ## ATIVIDADE- 8 CONJUNTO DE DADOS- Dax
