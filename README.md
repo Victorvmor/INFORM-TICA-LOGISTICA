@@ -60,6 +60,6 @@ link:https://github.com/Victorvmor/INFORM-TICA-LOGISTICA/blob/main/Aulas/Ativida
 
 ## Prova 28/05/2026
 <img width="1692" height="803" alt="Capturarprova" src="https://github.com/user-attachments/assets/52986e74-dc19-479b-a51c-25e35c52c873" />
-link:
+link:https://github.com/Victorvmor/INFORM-TICA-LOGISTICA/blob/main/Aulas/Prova_Info.pbix
 
 
