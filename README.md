@@ -54,4 +54,6 @@ link: https://github.com/Victorvmor/INFORM-TICA-LOGISTICA/blob/main/Aulas/DadosE
 <img width="1482" height="781" alt="Capturar" src="https://github.com/user-attachments/assets/697190d3-58be-4aaa-b9a1-55a22d7870a8" />
 codigo direto no githu:https://github.com/Victorvmor/INFORM-TICA-LOGISTICA/blob/main/Aulas/Regre%C3%A7%C3%A3olinear.ipynb
 
+## ATIVIDADE- 12
+<img width="1877" height="819" alt="ICE_CREAM" src="https://github.com/user-attachments/assets/47cdf3be-1677-4b8d-8680-45c113ef2678" />
 
