@@ -49,5 +49,9 @@ link: https://github.com/Victorvmor/INFORM-TICA-LOGISTICA/blob/main/Aulas/DadosE
 ## ATIVIDADE- 8 CONJUNTO DE DADOS- Dax
 <img width="1507" height="766" alt="FORMULADAX" src="https://github.com/user-attachments/assets/c871b52d-cabc-489f-802d-10526f062ba8" />
 
+## ATIVIDADE- 10 planilha sorvete vs temperatura de gráfico linear pelo Excel e Google colab
+<img width="1549" height="804" alt="regrssao linear" src="https://github.com/user-attachments/assets/f417a04d-e923-4351-a659-c9afb5ec06a3" />
+<img width="1482" height="781" alt="Capturar" src="https://github.com/user-attachments/assets/697190d3-58be-4aaa-b9a1-55a22d7870a8" />
+codigo direto no githu:https://github.com/Victorvmor/INFORM-TICA-LOGISTICA/blob/main/Aulas/Regre%C3%A7%C3%A3olinear.ipynb
 
 
