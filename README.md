@@ -56,4 +56,4 @@ codigo direto no githu:https://github.com/Victorvmor/INFORM-TICA-LOGISTICA/blob/
 
 ## ATIVIDADE- 12
 <img width="1877" height="819" alt="ICE_CREAM" src="https://github.com/user-attachments/assets/47cdf3be-1677-4b8d-8680-45c113ef2678" />
-
+link:https://github.com/Victorvmor/INFORM-TICA-LOGISTICA/blob/main/Aulas/Atividade_icecream_cerveja.pbix
