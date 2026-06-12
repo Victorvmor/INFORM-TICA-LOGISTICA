@@ -21,6 +21,10 @@ https://www.canva.com/design/DAHBPnoKum4/7QdoF78-WPsnIqhQm9iO8Q/edit?utm_content
 ### ATIVIDADE DADOS ABERTO- FORNECEDORES:
 <img width="1625" height="522" alt="Captura de tela 2026-04-16 223317" src="https://github.com/user-attachments/assets/6cd0eae3-719c-4c1b-a054-b5e445c3ebe1" />
 
+### CURSO-1
+<img width="704" height="1024" alt="image" src="https://github.com/user-attachments/assets/739ac12a-09b5-4031-b97c-b8eb9aa36c45" />
+
+
 
 
 # ATIVIDADE 06 SINISTROS-SP:
@@ -44,12 +48,6 @@ https://www.canva.com/design/DAHBPnoKum4/7QdoF78-WPsnIqhQm9iO8Q/edit?utm_content
 ## usar os dados abertos de SP, escolher um deles e criar três visualizaçõe:
 <img width="1881" height="838" alt="EMPREGO_PART2" src="https://github.com/user-attachments/assets/2d2974a6-6bc5-4c3d-b87f-3843b496233b" />
 link: https://github.com/Victorvmor/INFORM-TICA-LOGISTICA/blob/main/Aulas/DadosEmprego_PART2.pbix
-
-
-
-CURSO
-<img width="704" height="1024" alt="image" src="https://github.com/user-attachments/assets/739ac12a-09b5-4031-b97c-b8eb9aa36c45" />
-
 
 
 ## ATIVIDADE- 8 CONJUNTO DE DADOS- Dax
