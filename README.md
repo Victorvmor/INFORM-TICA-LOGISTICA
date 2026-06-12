@@ -61,6 +61,15 @@ link: https://github.com/Victorvmor/INFORM-TICA-LOGISTICA/blob/main/Aulas/DadosE
 <img width="1482" height="781" alt="Capturar" src="https://github.com/user-attachments/assets/697190d3-58be-4aaa-b9a1-55a22d7870a8" />
 codigo direto no githu:https://github.com/Victorvmor/INFORM-TICA-LOGISTICA/blob/main/Aulas/Regre%C3%A7%C3%A3olinear.ipynb
 
+## ATIVIDADE- 11 planilha qualidade do vinho
+https://docs.google.com/spreadsheets/d/1sLbmo7crG9tQhRyhh-wp3Dw88Q1j0gHq/edit?usp=sharing&ouid=117192103387226214508&rtpof=true&sd=true
+
+<img width="1919" height="906" alt="VINHO-1" src="https://github.com/user-attachments/assets/a941173d-f689-4f14-a9e6-4059741d52f6" />
+<img width="1875" height="697" alt="VINHO-2" src="https://github.com/user-attachments/assets/47edf485-307a-4fd0-8285-a08155a135bc" />
+<img width="1887" height="757" alt="VINHO-3" src="https://github.com/user-attachments/assets/f2f8da67-0f4e-4330-9bdf-89ac891fbc8b" />
+
+
+
 ## ATIVIDADE- 12
 <img width="1877" height="819" alt="ICE_CREAM" src="https://github.com/user-attachments/assets/47cdf3be-1677-4b8d-8680-45c113ef2678" />
 link:https://github.com/Victorvmor/INFORM-TICA-LOGISTICA/blob/main/Aulas/Atividade_icecream_cerveja.pbix
