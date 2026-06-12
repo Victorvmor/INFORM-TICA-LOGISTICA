@@ -46,6 +46,12 @@ https://www.canva.com/design/DAHBPnoKum4/7QdoF78-WPsnIqhQm9iO8Q/edit?utm_content
 link: https://github.com/Victorvmor/INFORM-TICA-LOGISTICA/blob/main/Aulas/DadosEmprego_PART2.pbix
 
 
+
+CURSO
+<img width="704" height="1024" alt="image" src="https://github.com/user-attachments/assets/739ac12a-09b5-4031-b97c-b8eb9aa36c45" />
+
+
+
 ## ATIVIDADE- 8 CONJUNTO DE DADOS- Dax
 <img width="1507" height="766" alt="FORMULADAX" src="https://github.com/user-attachments/assets/c871b52d-cabc-489f-802d-10526f062ba8" />
 
