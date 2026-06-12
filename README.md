@@ -25,9 +25,7 @@ https://www.canva.com/design/DAHBPnoKum4/7QdoF78-WPsnIqhQm9iO8Q/edit?utm_content
 <img width="704" height="1024" alt="image" src="https://github.com/user-attachments/assets/739ac12a-09b5-4031-b97c-b8eb9aa36c45" />
 
 ### CURSO-2
-
-<img width="554" height="405" alt="image" src="https://github.com/user-attachments/assets/ef8923be-0b3f-4a90-aa70-a6f9eba567ab" />
-
+![Uploading Image_e2fhbqe2fhbqe2fh.png…]()
 
 
 # ATIVIDADE 06 SINISTROS-SP:
